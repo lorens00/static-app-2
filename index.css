@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+
+    font-family: 'Luckiest Guy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    /* identical to box height */
+
+    color: #FEBF81;
+
+}
+
+.hero-txt h2{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: right;
+
+    color: #FFFFFF;
+
+}
+
+.highlighted{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: right;
+
+    color: #FFA750;
+}
+
+.hero-txt {
+    right: 10%; /* Adjust this value as needed to control the distance from the right edge */
+}
+
+.featured h3{
+
+    font-family: 'Arizonia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+.featured-txt{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 33px;
+
+    color: #000000;
+}
+
+
+
+#category{
+    background: #5A5B60;
+}
+
+#mission{
+
+    font-family: 'Arizonia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+#categories-section{
+ 
+    background: #5A5B60;
+
+}
